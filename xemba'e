@@ -1,14 +1,26 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-    <meta charset="UTF-8"> 
-    <title>hotel auvorecer dourado</title>-
-   <h1> sobre hotel auvorecer dourado </h1>
+    <head>
+        <meta charset="UTF-8"> 
+        <title>hotel auvorecer dourado</title>
+        <link>rel='stylesheet" href="style.css">
+       
+        <style>
+            
+        </style>
+    </head>
+    
+    <body>
+        <h1 style="text-align:center"> sobre hotel auvorecer dourado </h1>
    
-   <p>e localizada  na aldeia  araxa'i  estrada da barragetem o <strong>hotel auvorecer dourado</strong>  
-    <p>tem passeio  e diversão muito intreterimeto  e tem lazer 
-    lanchonetes churrascaria incluindo o bar e parques .
-    <p><em>nossa responsabilidade :<strong>fazer vc se sentir livre e ser feliz</strong.</em></p> <p>
-    oferecemos :" o melhor do melhor para os nossos clientes"</p>
-    <p>para queles q gostam  de aventuras tem caminhada para represa e conhecer a casa de resa.</p> 
-</html> 
- 
+        <p>e localizada  na aldeia  araxa'i  estrada da barragetem o <strong>hotel auvorecer dourado</strong>
+        
+        <p>tem passeio  e diversão muito intreterimeto  e tem lazer 
+        lanchonetes churrascaria incluindo o bar e parques .
+        
+        <p style="font-size: 20px"><em>nossa responsabilidade :<strong>fazer vc se sentir livre e ser feliz</strong.</em></p> <p>
+        oferecemos :" o melhor do melhor para os nossos clientes"</p>
+        
+        <p>para queles q gostam  de aventuras tem caminhada para represa e conhecer a casa de resa.</p> 
+    </body> 
+</html>    
